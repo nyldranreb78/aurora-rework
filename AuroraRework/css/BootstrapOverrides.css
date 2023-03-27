@@ -1,0 +1,34 @@
+/* Overrides some Bootstrap styles to better match the website
+   without the use of other libraries*/
+
+/* By default, btn-outline-warning has a white background with 
+   yellow text and border; this sets the text color to black
+   and the border to the default grey for better contrast and
+   more consistency*/
+.btn-outline-warning{
+    border-color: #DEE2E6;
+    color: black !important;
+} 
+
+.btn-outline-warning:hover,
+.btn-outline-warning:focus,
+.btn-outline-warning:active
+{
+    background-color: #FDB414 !important;
+    color: black !important;
+}
+
+/* For overriding some dark text for better contrast */
+.white-text{
+    color: white !important;
+}
+
+/* For overriding the default Bootstrap light grey border */
+.black-border{
+    border-color: black !important;
+}
+
+/* One of the common light grey shades that Bootstrap uses */
+.bs-light-grey{
+    background-color: #F8F8F8 !important;
+}
