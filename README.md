@@ -21,27 +21,27 @@ To run the prototype, simply **open `index.html` on a browser of choice**.
 - A complete overhaul of the Course Registration Interaction
   - The page is now easily reachable through the landing page or the navigation bar
   - `Select Subject` and `Select Term` pages are simplified into table filters.
-  -- `Subject` defaults to the major degree of the user (the prototype user is a Computer Science major)
-  -- `Term` defaults to the current/upcoming registration period (or the ongoing term if neither)
+    - `Subject` defaults to the major degree of the user (the prototype user is a Computer Science major)
+    - `Term` defaults to the current/upcoming registration period (or the ongoing term if neither)
   - Two new filters added:
     1. Level
-    -- Filters classes by the beginning digit of a course number (e.g. COMP <u>**3**</u>020)
-    -- Goes from 1 to 8 and includes an `All` option (default)
+      - Filters classes by the beginning digit of a course number (e.g. COMP <u>**3**</u>020)
+      - Goes from 1 to 8 and includes an `All` option (default)
     2. Unavailable Classes
-    -- Features a `Show/Hide` toggle to filter out classes that can no longer be registered for
-    -- Defaults to `Show`
+      - Features a `Show/Hide` toggle to filter out classes that can no longer be registered for
+      - Defaults to `Show`
   - Action buttons now vary depending on the status of the class:
-  -- `Register`: slots are available
-  -- `Expand`: slots are available and the class requires a laboratory/tutorial section
-  -- `Waitlist`: slots are full but waitlisting is an option and there are waitlist slots available
-  -- `Unavailable`: both class and waitlist slots are full and/or the class has been closed for registration
-  -- Hovering on these buttons shows **tooltips that explain their meaning**.
+    - `Register`: slots are available
+    - `Expand`: slots are available and the class requires a laboratory/tutorial section
+    - `Waitlist`: slots are full but waitlisting is an option and there are waitlist slots available
+    - `Unavailable`: both class and waitlist slots are full and/or the class has been closed for registration
+    - Hovering on these buttons shows **tooltips that explain their meaning**.
   - When a class requires a laboratory/tutorial, clicking on `Expand` will now **show all the matching laboratory/tutorial sections** to the user and requires them to register for them to complete the registration.
-  -- In the current version of Aurora (8.9.1), the matching laboratory/tutorial sections are presented in plain text. Failing to check off two matching sections will result in an error when trying to finish the registration.
+    - In the current version of Aurora (8.9.1), the matching laboratory/tutorial sections are presented in plain text. Failing to check off two matching sections will result in an error when trying to finish the registration.
   - When a user has finished registering or waitlisting for a class, the respective Action button for them changes:
-  -- `Register` & `Expand` -> `Registered`
-  -- `Waitlist` -> `Waitlisted`
-  -- As with the original buttons, hovering over the new ones will show tooltips with updated messages.
+    - `Register` & `Expand` -> `Registered`
+    - `Waitlist` -> `Waitlisted`
+    - As with the original buttons, hovering over the new ones will show tooltips with updated messages.
   - The rest of the important Aurora elements that are not implemented by this prototype are still presented as `disabled` buttons and links.
 
 ## Technology Used
