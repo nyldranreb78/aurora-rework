@@ -1,4 +1,4 @@
-# COMP 3020 Winter 2023<br>Milestone 3 - High-Fidelity Prototype
+# COMP 3020 Winter 2023<br><br>Milestone 3 - High-Fidelity Prototype
 
 ## Project: Aurora Rework
 This prototype demonstrates potential improvements to University of Manitoba's Aurora website featuring an intuitive navigation system, simplified class look up and registration, and a complete modern overhaul of the user interface.<br><br>
@@ -58,13 +58,14 @@ To run the prototype, simply **open `index.html` on a browser of choice**.
 ## Credits and Sources
 - **University of Manitoba**
   - Aurora
-  -- https://aurora.umanitoba.ca
+    - https://aurora.umanitoba.ca
   - Brand Colors and Logo
-  -- https://umanitoba.ca/about-um/brand
-  -- https://umanitoba.ca/sites/default/files/2019-12/UM_Brand-Guidelines.pdf
+    - https://umanitoba.ca/about-um/brand
+    - https://umanitoba.ca/sites/default/files/2019-12/UM_Brand-Guidelines.pdf
   - `index.html` Background Image
-  -- https://umanitoba.ca/about-um/our-campuses
-  -- Direct link: https://umanitoba.ca/sites/default/files/styles/21x9_1920w/public/2019-07/our-campuses-buhler-atrium-01c.jpg?itok=hiC4a7a2
-  <br>
+    - https://umanitoba.ca/about-um/our-campuses
+    - Direct link: https://umanitoba.ca/sites/default/files/styles/21x9_1920w/public/2019-07/our-campuses-buhler-atrium-01c.jpg?itok=hiC4a7a2
+  - Detailed Course Information
+    - https://umanitoba.ca/registrar/academic-calendar
 - **Bootstrap**
   - https://getbootstrap.com/
