@@ -24,12 +24,12 @@ To run the prototype, simply **open `index.html` on a browser of choice**.
     - `Subject` defaults to the major degree of the user (the prototype user is a Computer Science major)
     - `Term` defaults to the current/upcoming registration period (or the ongoing term if neither)
   - Two new filters added:
-    1. Level
-      - Filters classes by the beginning digit of a course number (e.g. COMP <u>**3**</u>020)
-      - Goes from 1 to 8 and includes an `All` option (default)
-    2. Unavailable Classes
-      - Features a `Show/Hide` toggle to filter out classes that can no longer be registered for
-      - Defaults to `Show`
+    - `Level`
+        - Filters classes by the beginning digit of a course number (e.g. COMP <u>**3**</u>020)
+        - Goes from 1 to 8 and includes an `All` option (default)
+    - `Unavailable Classes`
+        - Features a `Show/Hide` toggle to filter out classes that can no longer be registered for
+        - Defaults to `Show`
   - Action buttons now vary depending on the status of the class:
     - `Register`: slots are available
     - `Expand`: slots are available and the class requires a laboratory/tutorial section
