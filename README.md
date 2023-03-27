@@ -1,8 +1,9 @@
 # COMP 3020 Winter 2023<br>Milestone 3 - High-Fidelity Prototype
 
 ## Project: Aurora Rework
-This prototype demonstrates potential improvements to University of Manitoba's Aurora website featuring an intuitive navigation system, simplified class look up and registration, and a complete modern overhaul of the user interface.<br>
-The main interface/experience being improved upon by this project is the Course Registration page, which currently takes a significant amount of steps to reach and interact with.
+This prototype demonstrates potential improvements to University of Manitoba's Aurora website featuring an intuitive navigation system, simplified class look up and registration, and a complete modern overhaul of the user interface.<br><br>
+The main interface/experience being improved upon by this project is the Course Registration page, which currently takes a significant amount of steps to reach and interact with.<br><br>
+Try it here: [https://aurora-rework.netlify.app/](https://aurora-rework.netlify.app/)
 
 ## Running
 
