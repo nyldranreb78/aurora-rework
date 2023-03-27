@@ -1,0 +1,32 @@
+/* These classes are defined this way to mimic Bootstrap syntax and override some styles */
+.um-brown{
+    color: #4F2C1D;
+}
+
+.um-brown-bg{
+    background-color: #4F2C1D;
+}
+
+.um-yellow{
+    color: #F2A900;
+}
+
+.um-yellow-bg{
+    background-color: #F2A900;
+}
+
+.um-blue{
+    color: #385E9D;
+}
+
+.um-blue-bg{
+    background-color: #385E9D;
+}
+
+.um-cyan{
+    color: #00A3E0;
+}
+
+.um-cyan-bg{
+    background-color: #00A3E0;
+}
